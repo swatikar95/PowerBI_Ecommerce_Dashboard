@@ -1,0 +1,2 @@
+- Created interactive dashboard to track and analyze online sales data. 
+- Used customized filter and slicer, created connections, joined new tables, performed calculations, used different types of customized visualization(bar chart, pie chart, donut chart, scatter chart, slicer etc.
